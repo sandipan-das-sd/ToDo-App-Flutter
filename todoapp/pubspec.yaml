@@ -30,11 +30,11 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  velocity_x: ^4.2.1
-  http: ^1.2.1
-  shared_preferences: ^2.2.3
-  jwt_decoder: ^2.0.1
-  flutter_slidable: ^3.1.0
+  velocity_x: 
+  http: 
+  shared_preferences: 
+  jwt_decoder: 
+  flutter_slidable: 
  
 
   # The following adds the Cupertino Icons font to your application.
